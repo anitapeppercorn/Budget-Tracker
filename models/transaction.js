@@ -1,3 +1,4 @@
+// Provided in starter code. Used as is
 const mongoose = require("mongoose");
 
 const Schema = mongoose.Schema;
